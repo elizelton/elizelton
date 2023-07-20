@@ -7,7 +7,7 @@ Sou um Engenheiro de Software de formação, com experiência em desenvolvimento
 ## Contato
 
 - Localização: Ponta Grossa, Paraná, Brasil
-- Email: elizeltonls@gmail.com
+- [Email](mailto:elizeltonls@gmail.com?body=Ol%C3%A1%20Elizelton%2C%20tudo%20bem%3F)
 - [LinkedIn](https://www.linkedin.com/in/elizelton-lb8508679/)
 
 ## Tecnologias
