@@ -1,16 +1,26 @@
-### Hi there 👋
+# Elizelton Lisboa Dos Santos
 
-<!--
-**elizelton/elizelton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Sou um Engenheiro de Software de formação, com experiência em desenvolvimento full-stack e especialização em diversas tecnologias, como C#, .NET, Typescript, Javascript, Angular, SQL. Tenho habilidades em projetar, codificar, testar e depurar aplicações .NET, implementando novos recursos com base nas necessidades do negócio e buscando otimizar o desempenho das aplicações. Possuo uma excelente capacidade de colaboração com equipes multidisciplinares para garantir a entrega bem-sucedida dos projetos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contato
+
+- Localização: Ponta Grossa, Paraná, Brasil
+- Email: elizeltonls@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/elizelton-lb8508679/)
+
+## Tecnologias
+
+- C#
+- .NET
+- Typescript
+- Javascript
+- Angular
+- SQL
+- AWS
+
+## Projetos Destacados
+
+- [Projeto Skoll - back](https://github.com/elizelton/skoll.back)
+- [Projeto Skoll - front](https://github.com/elizelton/skoll.front)
